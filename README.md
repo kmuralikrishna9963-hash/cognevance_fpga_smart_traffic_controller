@@ -124,6 +124,8 @@ cognevance_fpga_smart_traffic_controller/
 - Industrial Vehicle Management
 - Automated Traffic Signal Systems
 
+---
+
 # Future Enhancements
 
 - Emergency Vehicle Priority
